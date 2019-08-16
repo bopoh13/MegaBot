@@ -1,4 +1,4 @@
-# MegaBot [![https://travis-ci.org/Dougley/MegaBot](https://img.shields.io/travis/Dougley/MegaBot.svg?style=for-the-badge&logo=travis)](https://travis-ci.org/Dougley/MegaBot)
+# MegaBot [![https://travis-ci.org/bopoh13/MegaBot](https://img.shields.io/travis/bopoh13/MegaBot.svg?logo=travis)](https://travis-ci.org/bopoh13/MegaBot)
 This repository holds the code for the bot used in the [Discord Feedback](https://discord.gg/discord-feedback) server.
 
 ## Installation

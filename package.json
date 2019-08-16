@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dougley/MBv2.git"
+    "url": "git+https://github.com/bopoh13/MBv2.git"
   },
-  "author": "Remco Jongschaap <hello@dougley.com>",
+  "author": "Tester",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/Dougley/MBv2/issues"
+    "url": "https://github.com/bopoh13/MBv2/issues"
   },
-  "homepage": "https://github.com/Dougley/MBv2#readme",
+  "homepage": "https://github.com/bopoh13/MBv2#readme",
   "dependencies": {
     "@vitalets/google-translate-api": "^2.8.0",
     "bottleneck": "^2.18.0",
