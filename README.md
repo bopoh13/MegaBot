@@ -2,7 +2,7 @@
 This repository holds the code for the bot used in the [Discord Feedback](https://discord.gg/discord-feedback) server.
 
 [![Build Status](https://travis-ci.org/bopoh13/essence.discordjs.bot.svg?logo=travis&branch=master)](https://travis-ci.org/bopoh13/essence.discordjs.bot)
-[![Dependency version](https://img.shields.io/github/package-json/dependency-version/bopoh13/essence.discordjs.bot/discord.js)](../..network/dependencies)
+[![Dependency version](https://img.shields.io/github/package-json/dependency-version/bopoh13/essence.discordjs.bot/discord.js)](../../network/dependencies)
 [![Stars](https://img.shields.io/github/stars/bopoh13/essence.discordjs.bot.svg)](../../stargazers)
 [![Licence](https://img.shields.io/github/license/bopoh13/essence.discordjs.bot "")](./LICENSE.md)
 
