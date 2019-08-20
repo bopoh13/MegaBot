@@ -1,6 +1,11 @@
 # MegaBot [![https://travis-ci.org/bopoh13/MegaBot](https://img.shields.io/travis/bopoh13/MegaBot.svg?logo=travis)](https://travis-ci.org/bopoh13/MegaBot)
 This repository holds the code for the bot used in the [Discord Feedback](https://discord.gg/discord-feedback) server.
 
+[![Build Status](https://travis-ci.org/bopoh13/essence.discordjs.bot.svg?logo=travis&branch=master)](https://travis-ci.org/bopoh13/essence.discordjs.bot)
+![Dependency version](https://img.shields.io/github/package-json/dependency-version/bopoh13/essence.discordjs.bot/discord.js)
+![Stars](https://img.shields.io/github/stars/bopoh13/essence.discordjs.bot.svg)
+[![Licence](https://img.shields.io/github/license/bopoh13/essence.discordjs.bot "")](./LICENSE)
+
 ## Installation
 Please note that this is a highly specialized project, we won't guarantee compatibility with your environment/setup.    
 That being said, at least Node.js v8 or higher is required due to the use of modern JavaScript. An example `.env` configuration file can be found in the project root, edit it accordingly and **save it as `.env`, not `.env.example`**
