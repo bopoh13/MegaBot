@@ -7,7 +7,7 @@ Request {
      pipe: [Function] },
   _eventsCount: 3,
   _maxListeners: undefined,
-  method: 'GET',
+  method: 'POST',
   body:
    '<?xml version="1.0" encoding="UTF-8"?>\n                <soap:Envelope xmlns
 :soap="http://www.w3.org/2003/05/soap-envelope" xmlns:oper="http://russianpost.o
@@ -52,7 +52,7 @@ orizationHeader>\n                   </oper:getOperationHistory>\n
   _multipart:
    Multipart {
      request: [Circular],
-     boundary: '04a22c6f-15fe-4ad7-a686-ffe515420092',
+     boundary: 'a75c3bf2-26eb-486e-8dbb-6b877a33db3a',
      chunked: false,
      body: null },
   _redirect:
@@ -169,4 +169,4 @@ orizationHeader>\n                   </oper:getOperationHistory>\n
      maxFreeSockets: 256,
      maxCachedSessions: 100,
      _sessionCache: { map: {}, list: [] } } }
-E 200 OK
+E 302 Moved Temporarily
