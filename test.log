@@ -1,0 +1,172 @@
+$ node index.js
+Request {
+  _events:
+   [Object: null prototype] {
+     error: [Function: bound ],
+     complete: [Function: bound ],
+     pipe: [Function] },
+  _eventsCount: 3,
+  _maxListeners: undefined,
+  method: 'GET',
+  body:
+   '<?xml version="1.0" encoding="UTF-8"?>\n                <soap:Envelope xmlns
+:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:oper="http://russianpost.o
+rg/operationhistory" xmlns:data="http://russianpost.org/operationhistory/data" x
+mlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">\n                <soap
+:Header/>\n                <soap:Body>\n                   <oper:getOperationHis
+tory>\n                      <data:OperationHistoryRequest>\n
+      <data:Barcode>ZA374693846HK</data:Barcode>  \n                         <da
+ta:MessageType>0</data:MessageType>\n                         <data:Language>RUS
+</data:Language>\n                      </data:OperationHistoryRequest>\n
+               <data:AuthorizationHeader soapenv:mustUnderstand="1">\n
+               <data:login>yyuhTinHztmImz1</data:login>\n
+  <data:password>kokNgR8dKpgU</data:password>\n                      </data:Auth
+orizationHeader>\n                   </oper:getOperationHistory>\n
+  </soap:Body>\n             </soap:Envelope>',
+  headers:
+   { 'Content-Type': 'application/soap+xml;charset=utf-8',
+     'Accept-Encoding': 'gzip,deflate',
+     'Content-Length': 1065,
+     host: 'tracking.russianpost.ru' },
+  callback: [Function],
+  readable: true,
+  writable: true,
+  explicitMethod: true,
+  _qs:
+   Querystring {
+     request: [Circular],
+     lib:
+      { formats: [Object], parse: [Function], stringify: [Function] },
+     useQuerystring: undefined,
+     parseOptions: {},
+     stringifyOptions: {} },
+  _auth:
+   Auth {
+     request: [Circular],
+     hasAuth: false,
+     sentAuth: false,
+     bearerToken: null,
+     user: null,
+     pass: null },
+  _oauth: OAuth { request: [Circular], params: null },
+  _multipart:
+   Multipart {
+     request: [Circular],
+     boundary: '04a22c6f-15fe-4ad7-a686-ffe515420092',
+     chunked: false,
+     body: null },
+  _redirect:
+   Redirect {
+     request: [Circular],
+     followRedirect: true,
+     followRedirects: true,
+     followAllRedirects: false,
+     followOriginalHttpMethod: false,
+     allowRedirect: [Function],
+     maxRedirects: 10,
+     redirects: [],
+     redirectsFollowed: 0,
+     removeRefererHeader: false },
+  _tunnel:
+   Tunnel {
+     request: [Circular],
+     proxyHeaderWhiteList:
+      [ 'accept',
+        'accept-charset',
+        'accept-encoding',
+        'accept-language',
+        'accept-ranges',
+        'cache-control',
+        'content-encoding',
+        'content-language',
+        'content-location',
+        'content-md5',
+        'content-range',
+        'content-type',
+        'connection',
+        'date',
+        'expect',
+        'max-forwards',
+        'pragma',
+        'referer',
+        'te',
+        'user-agent',
+        'via' ],
+     proxyHeaderExclusiveList: [] },
+  setHeader: [Function],
+  hasHeader: [Function],
+  getHeader: [Function],
+  removeHeader: [Function],
+  localAddress: undefined,
+  pool: {},
+  dests: [],
+  __isRequestRequest: true,
+  _callback: [Function: callback],
+  uri:
+   Url {
+     protocol: 'https:',
+     slashes: true,
+     auth: null,
+     host: 'tracking.russianpost.ru',
+     port: 443,
+     hostname: 'tracking.russianpost.ru',
+     hash: null,
+     search: '?wsdl',
+     query: 'wsdl',
+     pathname: '/rtm34',
+     path: '/rtm34?wsdl',
+     href: 'https://tracking.russianpost.ru/rtm34?wsdl' },
+  proxy: null,
+  tunnel: true,
+  setHost: true,
+  originalCookieHeader: undefined,
+  _disableCookies: true,
+  _jar: undefined,
+  port: 443,
+  host: 'tracking.russianpost.ru',
+  path: '/rtm34?wsdl',
+  httpModule:
+   { Agent: { [Function: Agent] super_: [Function] },
+     globalAgent:
+      Agent {
+        _events: [Object],
+        _eventsCount: 1,
+        _maxListeners: undefined,
+        defaultPort: 443,
+        protocol: 'https:',
+        options: [Object],
+        requests: {},
+        sockets: {},
+        freeSockets: {},
+        keepAliveMsecs: 1000,
+        keepAlive: false,
+        maxSockets: Infinity,
+        maxFreeSockets: 256,
+        maxCachedSessions: 100,
+        _sessionCache: [Object] },
+     Server: { [Function: Server] super_: [Function] },
+     createServer: [Function: createServer],
+     get: [Function: get],
+     request: [Function: request] },
+  agentClass:
+   { [Function: Agent]
+     super_:
+      { [Function: Agent] super_: [Function], defaultMaxSockets: Infinity } },
+  agent:
+   Agent {
+     _events: [Object: null prototype] { free: [Function] },
+     _eventsCount: 1,
+     _maxListeners: undefined,
+     defaultPort: 443,
+     protocol: 'https:',
+     options: { path: null },
+     requests: {},
+     sockets: {},
+     freeSockets: {},
+     keepAliveMsecs: 1000,
+     keepAlive: false,
+     maxSockets: Infinity,
+     maxFreeSockets: 256,
+     maxCachedSessions: 100,
+     _sessionCache: { map: {}, list: [] } } }
+E 200 OK
