@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Title",
+        "Cs": {
+            "cnt": 6,
+            "avg": "0.015",
+            "min": "0.01",
+            "max": "0.02"
+        },
+        "Sr": {
+            "cnt": 4,
+            "avg": "0.0015",
+            "min": "0.001",
+            "max": "0.002"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.82031,
+          55.97379
+        ]
+      },
+      "id": 1
+    }
+  ]
+}
