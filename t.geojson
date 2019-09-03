@@ -5,13 +5,13 @@
       "type": "Feature",
       "properties": {
         "name": "Title",
-        "Cs": {
+        "cs": {
             "cnt": 6,
             "avg": "0.015",
             "min": "0.01",
             "max": "0.02"
         },
-        "Sr": {
+        "sr": {
             "cnt": 4,
             "avg": "0.0015",
             "min": "0.001",
