@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Title",
+        "name": "point 600",
         "sr": {
             "cnt": 4,
             "avg": "0.015",
@@ -13,15 +13,41 @@
         },
         "cs": {
             "cnt": 600,
-            "avg": "0.0015",
-            "min": "0.001",
-            "max": "0.002"
+            "avg": "4.15",
+            "min": "4.1",
+            "max": "4.2"
         }
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           61.82031,
+          55.97379
+        ]
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "point 5",
+        "cs": {
+            "cnt": 5,
+            "avg": "0.015",
+            "min": "0.01",
+            "max": "0.02"
+        },
+        "sr": {
+            "cnt": 4,
+            "avg": "0.015",
+            "min": "0.01",
+            "max": "0.02"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.82031,
           55.97379
         ]
       },
