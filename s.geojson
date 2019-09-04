@@ -3,7 +3,8 @@
 "type":"Feature",
 "properties":{
 	"name":"с Аскино",
-	"sr":{
+	"pw":"Ci",
+	"cr":{
 		"cnt":6,
 		"avg":"<0.05",
 		"min":"<0.05",
@@ -19,7 +20,8 @@
 {"type":"Feature",
 "properties":{
 	"name":"д Нижнеутяшево",
-	"sr":{
+	"pw":"Ci",
+	"cr":{
 		"cnt":5,
 		"avg":"<0.05",
 		"min":"<0.05",
@@ -31,6 +33,5 @@
 	"coordinates":[55.6606,58.9684]
 },
 "id":845898412
-}],
-"power":"Ci"
+}]
 }
