@@ -1,0 +1,36 @@
+{"type":"FeatureCollection",
+"features":[{
+"type":"Feature",
+"properties":{
+	"name":"с Аскино",
+	"sr":{
+		"cnt":6,
+		"avg":"<0.05",
+		"min":"<0.05",
+		"max":0.1
+	}
+},
+"geometry":{
+	"type":"Point",
+	"coordinates":[56.0855,56.5787]
+},
+"id":327380642
+},
+{"type":"Feature",
+"properties":{
+	"name":"д Нижнеутяшево",
+	"sr":{
+		"cnt":5,
+		"avg":"<0.05",
+		"min":"<0.05",
+		"max":0.05
+	}
+},
+"geometry":{
+	"type":"Point",
+	"coordinates":[55.6606,58.9684]
+},
+"id":845898412
+}],
+"power":"Ci"
+}
