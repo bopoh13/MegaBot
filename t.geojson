@@ -5,6 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "point 600",
+        "pw":"Bq",
         "sr": {
             "cnt": 4,
             "avg": "10000",
@@ -31,6 +32,7 @@
       "type": "Feature",
       "properties": {
         "name": "point 5",
+        "pw":"Bq",
         "cs": {
             "cnt": 5,
             "avg": "450000",
@@ -53,6 +55,5 @@
       },
       "id": 12
     }
-  ],
-  "power":"Bq"
+  ]
 }
