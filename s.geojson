@@ -13,7 +13,7 @@
 },
 "geometry":{
 	"type":"Point",
-	"coordinates":[56.0855,56.5787]
+	"coordinates":[56.5787,56.0855]
 },
 "id":327380642
 },
@@ -30,7 +30,7 @@
 },
 "geometry":{
 	"type":"Point",
-	"coordinates":[55.6606,58.9684]
+	"coordinates":[58.9684,55.6606]
 },
 "id":845898412
 }]
