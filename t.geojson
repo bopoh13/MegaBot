@@ -5,7 +5,6 @@
       "type": "Feature",
       "properties": {
         "name": "point 600",
-        "pw":"Bq",
         "sr": {
             "cnt": 4,
             "avg": "10000",
@@ -17,7 +16,9 @@
             "avg": "10000",
             "min": "5000",
             "max": "25500"
-        }
+        },
+        "pw":"Bq",
+        "upd":"2019-05-05"
       },
       "geometry": {
         "type": "Point",
@@ -32,7 +33,6 @@
       "type": "Feature",
       "properties": {
         "name": "point 5",
-        "pw":"Bq",
         "cs": {
             "cnt": 5,
             "avg": "450000",
@@ -44,7 +44,9 @@
             "avg": "4000",
             "min": "3000",
             "max": "5000"
-        }
+        },
+        "pw":"Bq",
+        "upd":"2019-04-04"
       },
       "geometry": {
         "type": "Point",
