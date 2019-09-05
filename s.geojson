@@ -3,13 +3,14 @@
 "type":"Feature",
 "properties":{
 	"name":"с Аскино",
-	"pw":"Ci",
 	"cs":{
 		"cnt":6,
-		"avg":"<0.05",
-		"min":"<0.05",
+		"avg":-0.05,
+		"min":-0.05,
 		"max":0.1
-	}
+	},
+        "pw":"Ci",
+        "upd":"2019-07-07 19:01:02"
 },
 "geometry":{
 	"type":"Point",
@@ -20,13 +21,14 @@
 {"type":"Feature",
 "properties":{
 	"name":"д Нижнеутяшево",
-	"pw":"Ci",
 	"cs":{
 		"cnt":5,
-		"avg":"<0.05",
-		"min":"<0.05",
+		"avg":-0.05,
+		"min":-0.05,
 		"max":0.05
-	}
+	},
+	"pw":"Ci",
+	"upd":"2019-06-06 18:55:44"
 },
 "geometry":{
 	"type":"Point",
