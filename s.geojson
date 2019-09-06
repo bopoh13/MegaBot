@@ -2,7 +2,8 @@
 "features":[{
 "type":"Feature",
 "properties":{
-	"marker-symbol":"circle-stroked",
+	"marker-symbol":"danger",
+	"marker-html":"<span>RIP</span>",
 	"name":"с Аскино",
 	"cs":{
 		"cnt":12,
