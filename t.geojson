@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": 0,
+        "marker-symbol":"fuel",
+        "marker-class":"custom",
         "name": "point 600",
         "sr": {
             "cnt": 4,
@@ -33,7 +34,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "10",
+        "marker-symbol":"cemetery",
         "name": "point 5",
         "cs": {
             "cnt": 5,
