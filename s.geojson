@@ -2,6 +2,7 @@
 "features":[{
 "type":"Feature",
 "properties":{
+	"marker-symbol":"circle-stroked",
 	"name":"с Аскино",
 	"cs":{
 		"cnt":12,
@@ -20,7 +21,7 @@
 },
 {"type":"Feature",
 "properties":{
-	"marker-symbol":"chemist",
+	"marker-symbol":"city",
 	"name":"д Нижнеутяшево",
 	"cs":{
 		"cnt":16,
