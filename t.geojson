@@ -33,7 +33,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": '11',
+        "marker-symbol": "10",
         "name": "point 5",
         "cs": {
             "cnt": 5,
