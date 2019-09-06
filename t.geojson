@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": 0,
         "name": "point 600",
         "sr": {
             "cnt": 4,
@@ -32,6 +33,7 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-symbol": '11',
         "name": "point 5",
         "cs": {
             "cnt": 5,
