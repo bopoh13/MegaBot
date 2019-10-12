@@ -3,7 +3,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":55,
+  "radius-size":46,
   "name":"Саранск г",
   "marker-symbol":"city",
   "cs":{
@@ -12,7 +12,7 @@
    "min":-0.05,
    "max":6.4
   },
-"upd":"2018-02",
+"upd":"2018-09-12",
   "pw":"Ci"
  },
  "geometry":{
@@ -43,7 +43,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":15,
+  "radius-size":14,
   "name":"Зубова Поляна рп",
   "marker-symbol":"town",
   "cs":{
@@ -100,7 +100,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":10,
+  "radius-size":8,
   "name":"Ялга рп",
   "marker-symbol":"town",
   "cs":{
@@ -120,7 +120,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":16,
+  "radius-size":12,
   "name":"Николаевка рп",
   "marker-symbol":"town",
   "cs":{
@@ -561,7 +561,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":21,
+  "radius-size":12,
   "name":"Кемля с",
   "cs":{
    "cnt":22,
@@ -617,7 +617,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":21,
+  "radius-size":12,
   "name":"Чамзинка рп",
   "marker-symbol":"town",
   "cs":{
@@ -655,7 +655,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":7,
   "name":"Комсомольский рп",
   "marker-symbol":"town",
   "cs":{
@@ -694,7 +694,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":16,
+  "radius-size":15,
   "name":"Большие Березники с",
   "cs":{
    "cnt":17,
@@ -1218,8 +1218,8 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
-  "name":"Пушкино п",
+  "radius-size":6,
+  "name":"Пушкино п =",
   "cs":{
    "cnt":6,
    "avg":0.6,
@@ -1291,8 +1291,8 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":3,
-  "name":"Мариуполь д",
+  "radius-size":4,
+  "name":"Мариуполь д =",
   "cs":{
    "cnt":4,
    "avg":0.4,
@@ -1853,7 +1853,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":11,
+  "radius-size":9,
   "name":"Ковылкино г",
   "marker-symbol":"town",
   "cs":{
@@ -1981,7 +1981,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":7,
+  "radius-size":5,
   "name":"Пятина с",
   "cs":{
    "cnt":8,
@@ -2000,7 +2000,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":17,
+  "radius-size":13,
   "name":"Луховка рп",
   "marker-symbol":"town",
   "cs":{
@@ -2020,7 +2020,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":16,
+  "radius-size":12,
   "name":"Макаровка с",
   "cs":{
    "cnt":17,
@@ -2075,7 +2075,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":7,
+  "radius-size":6,
   "name":"Большие Ремезёнки с",
   "cs":{
    "cnt":8,
@@ -2256,7 +2256,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Мордовская Поляна с",
   "cs":{
    "cnt":6,
@@ -3144,8 +3144,8 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
-  "name":"Смольный п",
+  "radius-size":5,
+  "name":"Смольный п =",
   "cs":{
    "cnt":5,
    "avg":0.6,
@@ -3199,7 +3199,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":7,
+  "radius-size":6,
   "name":"Баево с",
   "cs":{
    "cnt":8,
@@ -3218,7 +3218,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Оброчное с",
   "cs":{
    "cnt":5,
@@ -3237,7 +3237,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":10,
+  "radius-size":9,
   "name":"Рождествено с",
   "cs":{
    "cnt":11,
@@ -3256,7 +3256,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":16,
+  "radius-size":12,
   "name":"Ичалки с",
   "cs":{
    "cnt":17,
@@ -3329,7 +3329,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":10,
+  "radius-size":9,
   "name":"Кергуды с",
   "cs":{
    "cnt":11,
@@ -3745,7 +3745,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":5,
   "name":"Пушкино с",
   "cs":{
    "cnt":7,
@@ -3908,7 +3908,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":11,
+  "radius-size":8,
   "name":"Лада с",
   "cs":{
    "cnt":12,
@@ -3963,7 +3963,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":11,
+  "radius-size":8,
   "name":"Инсаровка д",
   "cs":{
    "cnt":12,
@@ -4237,8 +4237,8 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
-  "name":"Альза с",
+  "radius-size":5,
+  "name":"Альза с =",
   "cs":{
    "cnt":5,
    "avg":0.5,
@@ -4256,8 +4256,8 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":2,
-  "name":"Репьевка с",
+  "radius-size":3,
+  "name":"Репьевка с =",
   "cs":{
    "cnt":3,
    "avg":0.4,
@@ -4419,8 +4419,8 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":3,
-  "name":"Курнино с",
+  "radius-size":4,
+  "name":"Курнино с =",
   "cs":{
    "cnt":4,
    "avg":0.2,
@@ -5864,7 +5864,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":9,
+  "radius-size":8,
   "name":"Куликовка с",
   "cs":{
    "cnt":10,
@@ -5901,8 +5901,8 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":2,
-  "name":"Красное Сельцо д",
+  "radius-size":3,
+  "name":"Красное Сельцо д =",
   "cs":{
    "cnt":3,
    "avg":0.5,
@@ -6465,7 +6465,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":3,
+  "radius-size":2,
   "name":"Надеждинский п",
   "cs":{
    "cnt":4,
