@@ -3,7 +3,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":26,
+  "radius-size":22,
   "name":"Саранск г",
   "marker-symbol":"city",
   "cs":{
@@ -561,13 +561,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":5,
   "name":"Кемля с",
   "cs":{
    "cnt":22,
    "avg":1.0,
    "min":0.1,
-   "max":10.3
+   "max":15.3
   },
   "pw":"Ci"
  },
@@ -617,14 +617,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":15,
+  "radius-size":14,
   "name":"Чамзинка рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":22,
    "avg":0.6,
    "min":0.2,
-   "max":12.0
+   "max":6.0
   },
   "pw":"Ci"
  },
@@ -700,7 +700,7 @@
    "cnt":17,
    "avg":0.4,
    "min":0.1,
-   "max":10.8
+   "max":4.8
   },
   "pw":"Ci"
  },
@@ -1218,13 +1218,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
-  "name":"Пушкино п =",
+  "radius-size":5,
+  "name":"Пушкино п",
   "cs":{
    "cnt":6,
    "avg":0.6,
    "min":0.1,
-   "max":5.9
+   "max":15.9
   },
   "pw":"Ci"
  },
@@ -1981,13 +1981,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Пятина с",
   "cs":{
    "cnt":8,
    "avg":0.6,
    "min":-0.05,
-   "max":10.8
+   "max":5.8
   },
   "pw":"Ci"
  },
@@ -2000,14 +2000,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":4,
   "name":"Луховка рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":18,
    "avg":0.5,
    "min":0.3,
-   "max":12.0
+   "max":15.0
   },
   "pw":"Ci"
  },
@@ -2020,13 +2020,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":4,
   "name":"Макаровка с",
   "cs":{
    "cnt":17,
    "avg":0.5,
    "min":0.2,
-   "max":12.0
+   "max":15.0
   },
   "pw":"Ci"
  },
@@ -3237,13 +3237,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":5,
   "name":"Рождествено с",
   "cs":{
    "cnt":11,
    "avg":0.7,
    "min":0.3,
-   "max":10.9
+   "max":15.9
   },
   "pw":"Ci"
  },
@@ -3256,13 +3256,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":5,
   "name":"Ичалки с",
   "cs":{
    "cnt":17,
    "avg":0.7,
    "min":0.2,
-   "max":10.5
+   "max":15.5
   },
   "pw":"Ci"
  },
@@ -3751,7 +3751,7 @@
    "cnt":7,
    "avg":0.1,
    "min":-0.05,
-   "max":10.4
+   "max":5.4
   },
   "pw":"Ci"
  },
@@ -3908,13 +3908,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Лада с",
   "cs":{
    "cnt":12,
    "avg":0.5,
    "min":0.4,
-   "max":10.7
+   "max":4.7
   },
   "pw":"Ci"
  },
@@ -3963,13 +3963,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Инсаровка д",
   "cs":{
    "cnt":12,
    "avg":0.4,
    "min":0.2,
-   "max":10.1
+   "max":.1
   },
   "pw":"Ci"
  },
@@ -4110,13 +4110,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":5,
   "name":"Красногорное с",
   "cs":{
    "cnt":7,
    "avg":0.6,
    "min":-0.05,
-   "max":10.1
+   "max":5.1
   },
   "pw":"Ci"
  },
@@ -6471,13 +6471,13 @@
    "cnt":4,
    "avg":0.2,
    "min":0.1,
-   "max":10.3
+   "max":15.3
   },
   "pw":"Ci"
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.6903,54.8993]
+  "coordinates":[45.6803,54.8803]
  },
  "id":2989191112
 },
