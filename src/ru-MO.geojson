@@ -2007,13 +2007,13 @@
    "cnt":18,
    "avg":0.5,
    "min":0.3,
-   "max":15.0
+   "max":40
   },
   "pw":"Ci"
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.2543,54.1477]
+  "coordinates":[45.2543,54.1457]
  },
  "id":1168431612
 },
@@ -6471,13 +6471,13 @@
    "cnt":4,
    "avg":0.2,
    "min":0.1,
-   "max":20.2
+   "max":40
   },
   "pw":"Ci"
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.6803,54.8883]
+  "coordinates":[45.6803,54.8873]
  },
  "id":2989191112
 },
