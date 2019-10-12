@@ -2001,7 +2001,7 @@
  "type":"Feature",
  "properties":{
   "radius-size":3,
-  "name":"Луховка рп",
+  "name":"Луховка рп -10",
   "marker-symbol":"town",
   "cs":{
    "cnt":18,
@@ -2013,7 +2013,7 @@
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.2543,54.1427]
+  "coordinates":[45.2543,54.1467]
  },
  "id":1168431612
 },
@@ -6466,7 +6466,7 @@
  "type":"Feature",
  "properties":{
   "radius-size":2,
-  "name":"Надеждинский п",
+  "name":"Надеждинский п -10",
   "cs":{
    "cnt":4,
    "avg":0.2,
@@ -6477,7 +6477,7 @@
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.6803,54.8843]
+  "coordinates":[45.6803,54.8883]
  },
  "id":2989191112
 },
