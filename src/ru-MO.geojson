@@ -3,16 +3,16 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":56,
+  "radius-size":55,
   "name":"Саранск г",
   "marker-symbol":"city",
   "cs":{
    "cnt":56,
    "avg":0.3,
    "min":-0.05,
-   "max":1.4
+   "max":6.4
   },
-"upd":"2018",
+"upd":"2018-02",
   "pw":"Ci"
  },
  "geometry":{
@@ -43,14 +43,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":16,
+  "radius-size":15,
   "name":"Зубова Поляна рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":16,
    "avg":0.2,
    "min":-0.05,
-   "max":0.5
+   "max":5.5
   },
   "pw":"Ci"
  },
@@ -100,14 +100,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":11,
+  "radius-size":10,
   "name":"Ялга рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":11,
    "avg":0.9,
    "min":0.1,
-   "max":1.6
+   "max":6.6
   },
   "pw":"Ci"
  },
@@ -120,14 +120,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":17,
+  "radius-size":16,
   "name":"Николаевка рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":17,
    "avg":0.6,
    "min":0.2,
-   "max":1.2
+   "max":6.2
   },
   "pw":"Ci"
  },
@@ -140,13 +140,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Совхоз \"Красное Сельцо\" п",
   "cs":{
    "cnt":5,
    "avg":0.7,
    "min":0.3,
-   "max":1.3
+   "max":6.3
   },
   "pw":"Ci"
  },
@@ -561,13 +561,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":22,
+  "radius-size":21,
   "name":"Кемля с",
   "cs":{
    "cnt":22,
    "avg":1.0,
    "min":0.1,
-   "max":3.3
+   "max":8.3
   },
   "pw":"Ci"
  },
@@ -580,13 +580,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":7,
+  "radius-size":6,
   "name":"Береговые Сыреси с",
   "cs":{
    "cnt":7,
    "avg":0.4,
    "min":0.3,
-   "max":0.5
+   "max":5.5
   },
   "pw":"Ci"
  },
@@ -617,14 +617,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":22,
+  "radius-size":21,
   "name":"Чамзинка рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":22,
    "avg":0.6,
    "min":0.2,
-   "max":1.0
+   "max":6.0
   },
   "pw":"Ci"
  },
@@ -655,14 +655,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":9,
+  "radius-size":8,
   "name":"Комсомольский рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":9,
    "avg":0.4,
    "min":0.2,
-   "max":0.6
+   "max":5.6
   },
   "pw":"Ci"
  },
@@ -675,13 +675,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":7,
   "name":"Судосево с",
   "cs":{
    "cnt":8,
    "avg":0.6,
    "min":0.4,
-   "max":1.0
+   "max":6.0
   },
   "pw":"Ci"
  },
@@ -694,13 +694,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":17,
+  "radius-size":16,
   "name":"Большие Березники с",
   "cs":{
    "cnt":17,
    "avg":0.4,
    "min":0.1,
-   "max":0.8
+   "max":5.8
   },
   "pw":"Ci"
  },
@@ -1218,13 +1218,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":5,
   "name":"Пушкино п",
   "cs":{
    "cnt":6,
    "avg":0.6,
    "min":0.1,
-   "max":0.9
+   "max":5.9
   },
   "pw":"Ci"
  },
@@ -1291,13 +1291,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Мариуполь д",
   "cs":{
    "cnt":4,
    "avg":0.4,
    "min":0.3,
-   "max":0.7
+   "max":5.7
   },
   "pw":"Ci"
  },
@@ -1364,13 +1364,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":9,
+  "radius-size":8,
   "name":"Фёдоровка д",
   "cs":{
    "cnt":9,
    "avg":0.6,
    "min":0.2,
-   "max":1.1
+   "max":6.1
   },
   "pw":"Ci"
  },
@@ -1797,13 +1797,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Булгаково с",
   "cs":{
    "cnt":5,
    "avg":0.6,
    "min":0.4,
-   "max":0.8
+   "max":5.8
   },
   "pw":"Ci"
  },
@@ -1834,13 +1834,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":3,
+  "radius-size":2,
   "name":"Воробьёвка д",
   "cs":{
    "cnt":3,
    "avg":0.5,
    "min":0.1,
-   "max":0.7
+   "max":5.7
   },
   "pw":"Ci"
  },
@@ -1853,14 +1853,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":12,
+  "radius-size":11,
   "name":"Ковылкино г",
   "marker-symbol":"town",
   "cs":{
    "cnt":12,
    "avg":0.2,
    "min":-0.05,
-   "max":0.6
+   "max":5.6
   },
   "pw":"Ci"
  },
@@ -1981,13 +1981,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":7,
   "name":"Пятина с",
   "cs":{
    "cnt":8,
    "avg":0.6,
    "min":-0.05,
-   "max":1.8
+   "max":6.8
   },
   "pw":"Ci"
  },
@@ -2000,14 +2000,14 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":18,
+  "radius-size":17,
   "name":"Луховка рп",
   "marker-symbol":"town",
   "cs":{
    "cnt":18,
    "avg":0.5,
    "min":0.3,
-   "max":1.0
+   "max":6.0
   },
   "pw":"Ci"
  },
@@ -2020,13 +2020,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":17,
+  "radius-size":16,
   "name":"Макаровка с",
   "cs":{
    "cnt":17,
    "avg":0.5,
    "min":0.2,
-   "max":1.0
+   "max":6.0
   },
   "pw":"Ci"
  },
@@ -2075,13 +2075,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":7,
   "name":"Большие Ремезёнки с",
   "cs":{
    "cnt":8,
    "avg":0.5,
    "min":0.2,
-   "max":0.9
+   "max":5.9
   },
   "pw":"Ci"
  },
@@ -2256,13 +2256,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":5,
   "name":"Мордовская Поляна с",
   "cs":{
    "cnt":6,
    "avg":0.3,
    "min":0.1,
-   "max":0.4
+   "max":5.4
   },
   "pw":"Ci"
  },
@@ -2438,13 +2438,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Исаевка д",
   "cs":{
    "cnt":4,
    "avg":0.2,
    "min":0.1,
-   "max":0.5
+   "max":5.5
   },
   "pw":"Ci"
  },
@@ -2746,13 +2746,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Грибоедово с",
   "cs":{
    "cnt":4,
    "avg":0.6,
    "min":0.5,
-   "max":0.6
+   "max":5.6
   },
   "pw":"Ci"
  },
@@ -2789,7 +2789,7 @@
    "cnt":2,
    "avg":0.7,
    "min":0.6,
-   "max":0.9
+   "max":5.9
   },
   "pw":"Ci"
  },
@@ -3144,13 +3144,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Смольный п",
   "cs":{
    "cnt":5,
    "avg":0.6,
    "min":0.1,
-   "max":1.5
+   "max":6.5
   },
   "pw":"Ci"
  },
@@ -3199,13 +3199,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":7,
   "name":"Баево с",
   "cs":{
    "cnt":8,
    "avg":0.6,
    "min":0.1,
-   "max":0.8
+   "max":5.8
   },
   "pw":"Ci"
  },
@@ -3218,13 +3218,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Оброчное с",
   "cs":{
    "cnt":5,
    "avg":0.7,
    "min":0.2,
-   "max":1.3
+   "max":6.3
   },
   "pw":"Ci"
  },
@@ -3237,13 +3237,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":11,
+  "radius-size":10,
   "name":"Рождествено с",
   "cs":{
    "cnt":11,
    "avg":0.7,
    "min":0.3,
-   "max":0.9
+   "max":5.9
   },
   "pw":"Ci"
  },
@@ -3256,13 +3256,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":17,
+  "radius-size":16,
   "name":"Ичалки с",
   "cs":{
    "cnt":17,
    "avg":0.7,
    "min":0.2,
-   "max":1.5
+   "max":6.5
   },
   "pw":"Ci"
  },
@@ -3329,13 +3329,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":11,
+  "radius-size":10,
   "name":"Кергуды с",
   "cs":{
    "cnt":11,
    "avg":1.3,
    "min":0.2,
-   "max":3.8
+   "max":8.8
   },
   "pw":"Ci"
  },
@@ -3726,13 +3726,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":3,
+  "radius-size":2,
   "name":"Заречный п",
   "cs":{
    "cnt":3,
    "avg":0.1,
    "min":0.1,
-   "max":0.2
+   "max":5.2
   },
   "pw":"Ci"
  },
@@ -3745,13 +3745,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":7,
+  "radius-size":6,
   "name":"Пушкино с",
   "cs":{
    "cnt":7,
    "avg":0.1,
    "min":-0.05,
-   "max":0.4
+   "max":5.4
   },
   "pw":"Ci"
  },
@@ -3908,13 +3908,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":12,
+  "radius-size":11,
   "name":"Лада с",
   "cs":{
    "cnt":12,
    "avg":0.5,
    "min":0.4,
-   "max":0.7
+   "max":5.7
   },
   "pw":"Ci"
  },
@@ -3963,13 +3963,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":12,
+  "radius-size":11,
   "name":"Инсаровка д",
   "cs":{
    "cnt":12,
    "avg":0.4,
    "min":0.2,
-   "max":1.1
+   "max":6.1
   },
   "pw":"Ci"
  },
@@ -4054,13 +4054,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":7,
+  "radius-size":6,
   "name":"Козловка с",
   "cs":{
    "cnt":7,
    "avg":0.5,
    "min":0.2,
-   "max":0.6
+   "max":5.6
   },
   "pw":"Ci"
  },
@@ -4091,13 +4091,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":7,
   "name":"Курилово с",
   "cs":{
    "cnt":8,
    "avg":0.6,
    "min":0.3,
-   "max":1.2
+   "max":6.2
   },
   "pw":"Ci"
  },
@@ -4110,13 +4110,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":7,
+  "radius-size":6,
   "name":"Красногорное с",
   "cs":{
    "cnt":7,
    "avg":0.6,
    "min":-0.05,
-   "max":1.1
+   "max":6.1
   },
   "pw":"Ci"
  },
@@ -4237,13 +4237,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Альза с",
   "cs":{
    "cnt":5,
    "avg":0.5,
    "min":0.4,
-   "max":0.6
+   "max":5.6
   },
   "pw":"Ci"
  },
@@ -4256,13 +4256,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":3,
+  "radius-size":2,
   "name":"Репьевка с",
   "cs":{
    "cnt":3,
    "avg":0.4,
    "min":0.4,
-   "max":0.4
+   "max":5.4
   },
   "pw":"Ci"
  },
@@ -4419,13 +4419,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Курнино с",
   "cs":{
    "cnt":4,
    "avg":0.2,
    "min":0.1,
-   "max":0.3
+   "max":5.3
   },
   "pw":"Ci"
  },
@@ -4510,13 +4510,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Папулево с",
   "cs":{
    "cnt":5,
    "avg":0.3,
    "min":0.2,
-   "max":0.5
+   "max":5.5
   },
   "pw":"Ci"
  },
@@ -4673,13 +4673,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":9,
+  "radius-size":8,
   "name":"Луньга с",
   "cs":{
    "cnt":9,
    "avg":0.3,
    "min":0.1,
-   "max":0.4
+   "max":5.4
   },
   "pw":"Ci"
  },
@@ -4818,13 +4818,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":8,
+  "radius-size":7,
   "name":"Манадыши 2-е с",
   "cs":{
    "cnt":8,
    "avg":0.2,
    "min":0.1,
-   "max":0.4
+   "max":5.4
   },
   "pw":"Ci"
  },
@@ -5539,13 +5539,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":12,
+  "radius-size":11,
   "name":"Кочетовка с",
   "cs":{
    "cnt":12,
    "avg":0.4,
    "min":0.2,
-   "max":1.0
+   "max":6.0
   },
   "pw":"Ci"
  },
@@ -5864,13 +5864,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":10,
+  "radius-size":9,
   "name":"Куликовка с",
   "cs":{
    "cnt":10,
    "avg":0.6,
    "min":0.1,
-   "max":0.9
+   "max":5.9
   },
   "pw":"Ci"
  },
@@ -5901,13 +5901,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":3,
+  "radius-size":2,
   "name":"Красное Сельцо д",
   "cs":{
    "cnt":3,
    "avg":0.5,
    "min":0.3,
-   "max":0.7
+   "max":5.7
   },
   "pw":"Ci"
  },
@@ -5993,13 +5993,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Яковщина с",
   "cs":{
    "cnt":4,
    "avg":0.6,
    "min":0.3,
-   "max":1.0
+   "max":6.0
   },
   "pw":"Ci"
  },
@@ -6452,7 +6452,7 @@
    "cnt":2,
    "avg":0.1,
    "min":0.1,
-   "max":0.1
+   "max":5.1
   },
   "pw":"Ci"
  },
@@ -6465,13 +6465,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Надеждинский п",
   "cs":{
    "cnt":4,
    "avg":0.2,
    "min":0.1,
-   "max":0.3
+   "max":5.3
   },
   "pw":"Ci"
  },
@@ -6557,13 +6557,13 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Лыковщина д",
   "cs":{
    "cnt":4,
    "avg":0.3,
    "min":0.1,
-   "max":0.4
+   "max":5.4
   },
   "pw":"Ci"
  },
