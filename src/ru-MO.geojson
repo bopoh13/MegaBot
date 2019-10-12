@@ -1,0 +1,6629 @@
+{"type":"FeatureCollection",
+ "features":[
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":56,
+  "name":"Саранск г",
+  "marker-symbol":"city",
+  "cs":{
+   "cnt":56,
+   "avg":0.3,
+   "min":-0.05,
+   "max":1.4
+  },
+"upd":"2018",
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1838,54.1867]
+ },
+ "id":191651581
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Умёт рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.6963,54.1141]
+ },
+ "id":288417924
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":16,
+  "name":"Зубова Поляна рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":16,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8374,54.0799]
+ },
+ "id":288418650
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Рузаевка г",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":3,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9543,54.0587]
+ },
+ "id":316226231
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Левжа с",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0129,54.0865]
+ },
+ "id":316226232
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":11,
+  "name":"Ялга рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":11,
+   "avg":0.9,
+   "min":0.1,
+   "max":1.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1276,54.1276]
+ },
+ "id":316230125
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":17,
+  "name":"Николаевка рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":17,
+   "avg":0.6,
+   "min":0.2,
+   "max":1.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1468,54.1505]
+ },
+ "id":316230939
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":5,
+  "name":"Совхоз \"Красное Сельцо\" п",
+  "cs":{
+   "cnt":5,
+   "avg":0.7,
+   "min":0.3,
+   "max":1.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.8837,54.0190]
+ },
+ "id":316233193
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Теньгушево с",
+  "cs":{
+   "cnt":12,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7142,54.7671]
+ },
+ "id":336521656
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Клемещей д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8612,54.5861]
+ },
+ "id":336521784
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ельники с",
+  "cs":{
+   "cnt":5,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8759,54.6206]
+ },
+ "id":336521799
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Темников г",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.2109,54.6314]
+ },
+ "id":336521806
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Селищи с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.5028,54.4680]
+ },
+ "id":336521857
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Явас рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":8,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8385,54.4161]
+ },
+ "id":336521963
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Краснослободск г",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7851,54.4240]
+ },
+ "id":336522062
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Рыбкино с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7639,54.2526]
+ },
+ "id":336522102
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старое Шайгово с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.4635,54.3042]
+ },
+ "id":336522107
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красная Пресня п",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.0265,54.1008]
+ },
+ "id":336522146
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Потьма рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.9050,54.1189]
+ },
+ "id":336522184
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ачадово с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.0069,53.9079]
+ },
+ "id":336522211
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Тарханская Потьма с",
+  "cs":{
+   "cnt":3,
+   "avg":0.4,
+   "min":0.1,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.9774,53.9334]
+ },
+ "id":336522220
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Болдово с",
+  "cs":{
+   "cnt":11,
+   "avg":0.5,
+   "min":0.2,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.6308,53.9865]
+ },
+ "id":336523334
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ширингуши с",
+  "cs":{
+   "cnt":3,
+   "avg":0.6,
+   "min":0.3,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7682,53.8486]
+ },
+ "id":336523421
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Языкова Пятина с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5538,53.7843]
+ },
+ "id":336523432
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Шадымо-Рыскино с",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.6513,53.7134]
+ },
+ "id":336523452
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Тургенево рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":6,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.3204,54.8439]
+ },
+ "id":336524880
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ардатов г",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2386,54.8436]
+ },
+ "id":336524920
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Киржеманы с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8453,54.6313]
+ },
+ "id":336524995
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Алово с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.4333,54.6250]
+ },
+ "id":336524998
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Лобаски с",
+  "cs":{
+   "cnt":6,
+   "avg":0.5,
+   "min":0.2,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1488,54.6180]
+ },
+ "id":336525001
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":22,
+  "name":"Кемля с",
+  "cs":{
+   "cnt":22,
+   "avg":1.0,
+   "min":0.1,
+   "max":3.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2438,54.6941]
+ },
+ "id":336525015
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":7,
+  "name":"Береговые Сыреси с",
+  "cs":{
+   "cnt":7,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6138,54.7389]
+ },
+ "id":336525109
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кабаево с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.4651,54.5157]
+ },
+ "id":336525165
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":22,
+  "name":"Чамзинка рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":22,
+   "avg":0.6,
+   "min":0.2,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7840,54.4079]
+ },
+ "id":336525378
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ромоданово п",
+  "cs":{
+   "cnt":11,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3341,54.4209]
+ },
+ "id":336525399
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":9,
+  "name":"Комсомольский рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":9,
+   "avg":0.4,
+   "min":0.2,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8215,54.4366]
+ },
+ "id":336525416
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":8,
+  "name":"Судосево с",
+  "cs":{
+   "cnt":8,
+   "avg":0.6,
+   "min":0.4,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7948,54.1568]
+ },
+ "id":336525489
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":17,
+  "name":"Большие Березники с",
+  "cs":{
+   "cnt":17,
+   "avg":0.4,
+   "min":0.1,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9662,54.1719]
+ },
+ "id":336525506
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Лямбирь с",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1226,54.2828]
+ },
+ "id":336525565
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кочкурово с",
+  "cs":{
+   "cnt":9,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4347,54.0314]
+ },
+ "id":336525771
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Мельсетьево с",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.4314,54.7566]
+ },
+ "id":346277260
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Жегалово с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.4185,54.7113]
+ },
+ "id":448090539
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Барашево п",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8836,54.5367]
+ },
+ "id":450562657
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пурдошки с",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.5482,54.6663]
+ },
+ "id":460345951
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Тёплый Стан с",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7300,54.1055]
+ },
+ "id":474954570
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дубенки с",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2980,54.4376]
+ },
+ "id":1028724313
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Атяшево рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":3,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.0805,54.5889]
+ },
+ "id":1031307883
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Большое Игнатово с",
+  "cs":{
+   "cnt":11,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5744,55.0197]
+ },
+ "id":1031307953
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Сосновка п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8874,54.2685]
+ },
+ "id":1141792383
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Лесной п",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7069,54.4613]
+ },
+ "id":1141792399
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Молочница п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8776,54.2342]
+ },
+ "id":1141792406
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Аксёново с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3419,54.2501]
+ },
+ "id":1144118539
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Татарская Тавла с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3528,54.2211]
+ },
+ "id":1144118566
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Коляево д",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.6392,54.6067]
+ },
+ "id":1145510943
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Стандрово с",
+  "cs":{
+   "cnt":9,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.6580,54.6418]
+ },
+ "id":1145510945
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Такушево с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.9549,54.7189]
+ },
+ "id":1145510947
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Телимерки д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7795,54.7416]
+ },
+ "id":1148760740
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Зыково с",
+  "cs":{
+   "cnt":8,
+   "avg":0.5,
+   "min":0.1,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0916,54.0705]
+ },
+ "id":1148786273
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Монастырское с",
+  "cs":{
+   "cnt":6,
+   "avg":0.7,
+   "min":0.3,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1286,54.0879]
+ },
+ "id":1148786275
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красино с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.4327,54.3675]
+ },
+ "id":1150800895
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Чеберчино с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.4655,54.3665]
+ },
+ "id":1150800913
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Петровка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.3666,54.3898]
+ },
+ "id":1150801002
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Николаевка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.5118,54.3314]
+ },
+ "id":1150801038
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Чиндяново с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.3935,54.4650]
+ },
+ "id":1150830516
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дюрки с",
+  "cs":{
+   "cnt":1,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.05
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.3702,54.6503]
+ },
+ "id":1150844534
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Озёрный п",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2853,54.2324]
+ },
+ "id":1151133301
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":6,
+  "name":"Пушкино п",
+  "cs":{
+   "cnt":6,
+   "avg":0.6,
+   "min":0.1,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1778,54.1430]
+ },
+ "id":1151133521
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Симкино с",
+  "cs":{
+   "cnt":6,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1733,54.2551]
+ },
+ "id":1151216756
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старые Найманы с",
+  "cs":{
+   "cnt":12,
+   "avg":0.8,
+   "min":0.4,
+   "max":1.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9303,54.2648]
+ },
+ "id":1151216842
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Елизаветинка с",
+  "cs":{
+   "cnt":5,
+   "avg":0.7,
+   "min":0.5,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8894, 54.2344]
+ },
+ "id":1151216886
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":4,
+  "name":"Мариуполь д",
+  "cs":{
+   "cnt":4,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9511,54.2023]
+ },
+ "id":1151216889
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Починки с",
+  "cs":{
+   "cnt":12,
+   "avg":1.2,
+   "min":0.4,
+   "max":2.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8468,54.2051]
+ },
+ "id":1151260983
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Гузынцы с",
+  "cs":{
+   "cnt":8,
+   "avg":0.7,
+   "min":0.3,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6985,54.1868]
+ },
+ "id":1151260988
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Нерлей с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7098,54.0774]
+ },
+ "id":1151261010
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":9,
+  "name":"Фёдоровка д",
+  "cs":{
+   "cnt":9,
+   "avg":0.6,
+   "min":0.2,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8281,54.1402]
+ },
+ "id":1151261015
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Косогоры с",
+  "cs":{
+   "cnt":7,
+   "avg":0.9,
+   "min":0.3,
+   "max":1.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7786,54.2115]
+ },
+ "id":1151261024
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дегилёвка д",
+  "cs":{
+   "cnt":7,
+   "avg":0.5,
+   "min":0.2,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6783,54.1540]
+ },
+ "id":1151261044
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пермиси с",
+  "cs":{
+   "cnt":9,
+   "avg":0.4,
+   "min":0.2,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8239,54.0953]
+ },
+ "id":1151261050
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Гарт с",
+  "cs":{
+   "cnt":7,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6353,54.1455]
+ },
+ "id":1151261060
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Баево с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.3711,54.8345]
+ },
+ "id":1152619570
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Шокша с",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.5212,54.7710]
+ },
+ "id":1156376558
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Вяжга п",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7344,54.6955]
+ },
+ "id":1156376619
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Сакаево с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.5985,54.7593]
+ },
+ "id":1156376633
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Шелубей п",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7133,54.6976]
+ },
+ "id":1156376639
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Хлебино с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8277,54.6339]
+ },
+ "id":1156418970
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Белорамино д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7605,54.6125]
+ },
+ "id":1156420959
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Коломасово д",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.4482,54.7280]
+ },
+ "id":1156420960
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Широмасово с",
+  "cs":{
+   "cnt":8,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.5329,54.7075]
+ },
+ "id":1156420961
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Нароватово с",
+  "cs":{
+   "cnt":8,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.6917,54.7291]
+ },
+ "id":1156420962
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Куликово с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.5620,54.7351]
+ },
+ "id":1156420963
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кураево с",
+  "cs":{
+   "cnt":8,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.6352,54.7119]
+ },
+ "id":1156420964
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Синяково д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.6827,54.4273]
+ },
+ "id":1156444911
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Гумны с",
+  "cs":{
+   "cnt":10,
+   "avg":0.4,
+   "min":0.2,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7283,54.3879]
+ },
+ "id":1156444961
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Известь п",
+  "cs":{
+   "cnt":6,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.4461,53.9371]
+ },
+ "id":1157182737
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Выша с",
+  "cs":{
+   "cnt":7,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.3778,53.8500]
+ },
+ "id":1157182738
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старая Пырма д",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4575,53.9890]
+ },
+ "id":1159362451
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новая Пырма с",
+  "cs":{
+   "cnt":4,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4582,54.0116]
+ },
+ "id":1159362803
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новосельцево с",
+  "cs":{
+   "cnt":4,
+   "avg":0.5,
+   "min":0.4,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3405,54.0401]
+ },
+ "id":1159363054
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":5,
+  "name":"Булгаково с",
+  "cs":{
+   "cnt":5,
+   "avg":0.6,
+   "min":0.4,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2442,54.0606]
+ },
+ "id":1159414481
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Внуковка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2800,54.0264]
+ },
+ "id":1159414507
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":3,
+  "name":"Воробьёвка д",
+  "cs":{
+   "cnt":3,
+   "avg":0.5,
+   "min":0.1,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2582,54.0534]
+ },
+ "id":1159414781
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":12,
+  "name":"Ковылкино г",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":12,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9156,54.0380]
+ },
+ "id":1160184877
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Софьино с",
+  "cs":{
+   "cnt":5,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9405,54.6939]
+ },
+ "id":1160683481
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новоникольское с",
+  "cs":{
+   "cnt":6,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.0273,54.6852]
+ },
+ "id":1160683498
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Передовой п",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9776,54.6306]
+ },
+ "id":1160700635
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Владимировка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2259,54.2564]
+ },
+ "id":1165445329
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Александровка с",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2559,54.2710]
+ },
+ "id":1165445601
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дмитриевка п",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4845,54.3363]
+ },
+ "id":1165503738
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":8,
+  "name":"Пятина с",
+  "cs":{
+   "cnt":8,
+   "avg":0.6,
+   "min":-0.05,
+   "max":1.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4729,54.3266]
+ },
+ "id":1165504136
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":18,
+  "name":"Луховка рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":18,
+   "avg":0.5,
+   "min":0.3,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2543,54.1477]
+ },
+ "id":1168431612
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":17,
+  "name":"Макаровка с",
+  "cs":{
+   "cnt":17,
+   "avg":0.5,
+   "min":0.2,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2532,54.1577]
+ },
+ "id":1168431777
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Малое Маресево с",
+  "cs":{
+   "cnt":4,
+   "avg":0.6,
+   "min":0.4,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5934,54.3122]
+ },
+ "id":1168487119
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Малые Ремезёнки с",
+  "cs":{
+   "cnt":2,
+   "avg":0.6,
+   "min":0.5,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5858,54.3333]
+ },
+ "id":1168487139
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":8,
+  "name":"Большие Ремезёнки с",
+  "cs":{
+   "cnt":8,
+   "avg":0.5,
+   "min":0.2,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5591,54.3690]
+ },
+ "id":1168487200
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Большое Маресево с",
+  "cs":{
+   "cnt":8,
+   "avg":0.6,
+   "min":0.3,
+   "max":1.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6680,54.3514]
+ },
+ "id":1168502143
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пянгелей с",
+  "cs":{
+   "cnt":4,
+   "avg":0.5,
+   "min":0.1,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7063,54.2837]
+ },
+ "id":1168502181
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Софьино д",
+  "cs":{
+   "cnt":3,
+   "avg":1.0,
+   "min":0.8,
+   "max":1.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7140,54.2548]
+ },
+ "id":1168502257
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Мокшалей с",
+  "cs":{
+   "cnt":8,
+   "avg":0.5,
+   "min":0.2,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6250,54.2556]
+ },
+ "id":1168503160
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новое Бадиково с",
+  "cs":{
+   "cnt":5,
+   "avg":0.4,
+   "min":0.2,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7365,53.7940]
+ },
+ "id":1172671952
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Удево п",
+  "cs":{
+   "cnt":3,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.5873,53.8522]
+ },
+ "id":1172672095
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пичпанда с",
+  "cs":{
+   "cnt":3,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.9664,53.8734]
+ },
+ "id":1172686113
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Калиновка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8954,53.8787]
+ },
+ "id":1172686273
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Булдыгино с",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8740,53.8950]
+ },
+ "id":1172686297
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":6,
+  "name":"Мордовская Поляна с",
+  "cs":{
+   "cnt":6,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8321,53.9597]
+ },
+ "id":1172698545
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":2,
+  "name":"Ивановка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8487,53.9614]
+ },
+ "id":1172698556
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Валовка п",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8216,53.9255]
+ },
+ "id":1172698600
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Поповка п",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8427,53.9027]
+ },
+ "id":1172698605
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Каргал с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.9859,53.9747]
+ },
+ "id":1173924245
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дубасово с",
+  "cs":{
+   "cnt":4,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.0520,53.9140]
+ },
+ "id":1173929384
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Зарубкино с",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.0012,53.9708]
+ },
+ "id":1173944325
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новые Выселки с",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.9739,53.9937]
+ },
+ "id":1173944329
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Уголок с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8592,54.0160]
+ },
+ "id":1173954837
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красный Лундан п",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8429,54.0511]
+ },
+ "id":1173954845
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":4,
+  "name":"Исаевка д",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8439,54.0333]
+ },
+ "id":1173954867
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новая Поляна с",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8509,53.9976]
+ },
+ "id":1173954872
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":2,
+  "name":"Шуварляй п",
+  "cs":{
+   "cnt":1,
+   "avg":0.8,
+   "min":0.8,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8276,54.0319]
+ },
+ "id":1173954874
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старый Город с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.1041,54.6799]
+ },
+ "id":1174251647
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Подгорные Селищи д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.2806,54.5718]
+ },
+ "id":1174933609
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Плосское п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.1848,54.5868]
+ },
+ "id":1174933620
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дасаево д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.3561,54.5591]
+ },
+ "id":1174971511
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Тарханы с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.4097,54.5381]
+ },
+ "id":1175012538
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Андреевка с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5662,55.0549]
+ },
+ "id":1189493586
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Чукалы с",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5167,55.0362]
+ },
+ "id":1189508043
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Манаково д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6539,55.0213]
+ },
+ "id":1189535879
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кучкаево с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6858,55.0303]
+ },
+ "id":1189535911
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новое Качаево с",
+  "cs":{
+   "cnt":7,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6005,54.9232]
+ },
+ "id":1189588525
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красная Нива д",
+  "cs":{
+   "cnt":3,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6754,54.9848]
+ },
+ "id":1189588559
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новое Чамзино д",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5988,54.9932]
+ },
+ "id":1189588632
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Вармазейка с",
+  "cs":{
+   "cnt":9,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5624,54.9707]
+ },
+ "id":1189588707
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красный Яр д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8045,54.7501]
+ },
+ "id":1194297110
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":4,
+  "name":"Грибоедово с",
+  "cs":{
+   "cnt":4,
+   "avg":0.6,
+   "min":0.5,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3236,54.1246]
+ },
+ "id":1195673617
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Горяйновка с",
+  "cs":{
+   "cnt":6,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3285,54.1061]
+ },
+ "id":1195673619
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":2,
+  "name":"Ивановка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.7,
+   "min":0.6,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3085,54.1220]
+ },
+ "id":1195673625
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Танеевка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3687,54.1069]
+ },
+ "id":1195673629
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Сузгарье с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9223,54.1181]
+ },
+ "id":1204418989
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Левженский п",
+  "cs":{
+   "cnt":7,
+   "avg":0.4,
+   "min":0.2,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0753,54.1093]
+ },
+ "id":1204418990
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Поповка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0388,54.1138]
+ },
+ "id":1204418992
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Акшенас д",
+  "cs":{
+   "cnt":2,
+   "avg":0.4,
+   "min":0.1,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1235,54.0417]
+ },
+ "id":1204519589
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ускляй с",
+  "cs":{
+   "cnt":4,
+   "avg":0.6,
+   "min":0.5,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9977,53.9915]
+ },
+ "id":1204519679
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Русский Шебдас д",
+  "cs":{
+   "cnt":1,
+   "avg":0.5,
+   "min":0.5,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9237,53.9956]
+ },
+ "id":1204519743
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красный Уголок п",
+  "cs":{
+   "cnt":1,
+   "avg":0.8,
+   "min":0.8,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9517,54.0125]
+ },
+ "id":1204519751
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Плодопитомнический п",
+  "cs":{
+   "cnt":2,
+   "avg":0.5,
+   "min":0.5,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0209,54.0219]
+ },
+ "id":1204519880
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Татарский Шебдас с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9078,53.9844]
+ },
+ "id":1204519918
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Аргамаково с",
+  "cs":{
+   "cnt":7,
+   "avg":0.5,
+   "min":0.3,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0919,53.9836]
+ },
+ "id":1204525071
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Малый Уркат д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8451,54.6637]
+ },
+ "id":1205881949
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Большой Уркат с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8527,54.6873]
+ },
+ "id":1205881985
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Желтоногово д",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7639,54.4760]
+ },
+ "id":1207631733
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новый Усад с",
+  "cs":{
+   "cnt":4,
+   "avg":0.4,
+   "min":0.2,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7952,54.4727]
+ },
+ "id":1207631803
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Лаушки д",
+  "cs":{
+   "cnt":3,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8147,54.4439]
+ },
+ "id":1207649864
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старые Горяши с",
+  "cs":{
+   "cnt":6,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7797,54.4426]
+ },
+ "id":1207649878
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пригородное с",
+  "cs":{
+   "cnt":3,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7663,54.4116]
+ },
+ "id":1207653759
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Малые Ичалки д",
+  "cs":{
+   "cnt":6,
+   "avg":0.6,
+   "min":0.4,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2295,54.7468]
+ },
+ "id":1209204905
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":5,
+  "name":"Смольный п",
+  "cs":{
+   "cnt":5,
+   "avg":0.6,
+   "min":0.1,
+   "max":1.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2836,54.7252]
+ },
+ "id":1209204908
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Обрезки п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3791,54.8345]
+ },
+ "id":1209204933
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Троицкий п",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4492,54.6979]
+ },
+ "id":1209219243
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":8,
+  "name":"Баево с",
+  "cs":{
+   "cnt":8,
+   "avg":0.6,
+   "min":0.1,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3266,54.6779]
+ },
+ "id":1209239921
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":5,
+  "name":"Оброчное с",
+  "cs":{
+   "cnt":5,
+   "avg":0.7,
+   "min":0.2,
+   "max":1.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3334,54.6640]
+ },
+ "id":1209239922
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":11,
+  "name":"Рождествено с",
+  "cs":{
+   "cnt":11,
+   "avg":0.7,
+   "min":0.3,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2952,54.6894]
+ },
+ "id":1209239923
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":17,
+  "name":"Ичалки с",
+  "cs":{
+   "cnt":17,
+   "avg":0.7,
+   "min":0.2,
+   "max":1.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2691,54.6867]
+ },
+ "id":1209239924
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кендя с",
+  "cs":{
+   "cnt":7,
+   "avg":0.5,
+   "min":0.2,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0609,54.7237]
+ },
+ "id":1209255250
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Иклей п",
+  "cs":{
+   "cnt":2,
+   "avg":0.6,
+   "min":0.3,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0983,54.7647]
+ },
+ "id":1209255258
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Гуляево с",
+  "cs":{
+   "cnt":12,
+   "avg":1.6,
+   "min":0.4,
+   "max":3.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1248,54.7362]
+ },
+ "id":1209255262
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":11,
+  "name":"Кергуды с",
+  "cs":{
+   "cnt":11,
+   "avg":1.3,
+   "min":0.2,
+   "max":3.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1905,54.7127]
+ },
+ "id":1209255269
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Барахманы с",
+  "cs":{
+   "cnt":6,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5870,54.8963]
+ },
+ "id":1210130418
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Горки с",
+  "cs":{
+   "cnt":9,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7938,54.9702]
+ },
+ "id":1210130419
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Любимовка п",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7447,54.9181]
+ },
+ "id":1210130421
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Киржеманы с",
+  "cs":{
+   "cnt":7,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7408,54.9642]
+ },
+ "id":1210130423
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Тарасполь с",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9768,54.2598]
+ },
+ "id":1221375641
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пензятка с",
+  "cs":{
+   "cnt":7,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9923,54.2359]
+ },
+ "id":1221375646
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Щербаково д",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0306,54.2432]
+ },
+ "id":1221375648
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Татарская Свербейка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0403,54.2160]
+ },
+ "id":1221378623
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Болотниково с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9259,54.2772]
+ },
+ "id":1221388219
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Апполоновка д",
+  "cs":{
+   "cnt":2,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.05
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9742,54.2844]
+ },
+ "id":1221388263
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Масловка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.8750,54.3057]
+ },
+ "id":1221413549
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Удобный п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9240,54.3427]
+ },
+ "id":1221420177
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Акаевка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9347,54.2949]
+ },
+ "id":1221420182
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Советское с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9409,54.3128]
+ },
+ "id":1221420191
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Лопатино д",
+  "cs":{
+   "cnt":5,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0154,54.2993]
+ },
+ "id":1221423371
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новая Михайловка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0792,54.3229]
+ },
+ "id":1221428077
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Озерный п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.6955,54.4085]
+ },
+ "id":1224228070
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новое Зубарево с",
+  "cs":{
+   "cnt":5,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9176,54.3758]
+ },
+ "id":1225556297
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красный Узел п",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2423,54.4362]
+ },
+ "id":1229061151
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Константиновка с",
+  "cs":{
+   "cnt":5,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3690,54.4697]
+ },
+ "id":1229519451
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ивановка д",
+  "cs":{
+   "cnt":6,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4055,54.4534]
+ },
+ "id":1229519528
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":3,
+  "name":"Заречный п",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3848,54.5118]
+ },
+ "id":1229534179
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":7,
+  "name":"Пушкино с",
+  "cs":{
+   "cnt":7,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3660,54.5118]
+ },
+ "id":1229534211
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Юсуповка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3541,54.5469]
+ },
+ "id":1230178944
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Верхняя Ладка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3288,54.5755]
+ },
+ "id":1230186638
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пермеево с",
+  "cs":{
+   "cnt":6,
+   "avg":0.5,
+   "min":0.3,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1921,54.5893]
+ },
+ "id":1230186639
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Большая Пестровка с",
+  "cs":{
+   "cnt":3,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2550,54.5636]
+ },
+ "id":1230186641
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Бугры д",
+  "cs":{
+   "cnt":3,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0454,54.5630]
+ },
+ "id":1230195999
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Грабовка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1674,54.5401]
+ },
+ "id":1230196034
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Протасово с",
+  "cs":{
+   "cnt":6,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0879,54.5606]
+ },
+ "id":1230196096
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ханинеевка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.5,
+   "min":0.4,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0719,54.6079]
+ },
+ "id":1230204740
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":12,
+  "name":"Лада с",
+  "cs":{
+   "cnt":12,
+   "avg":0.5,
+   "min":0.4,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4261,54.5812]
+ },
+ "id":1230827508
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Языковка д",
+  "cs":{
+   "cnt":3,
+   "avg":0.7,
+   "min":0.4,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3758,54.6369]
+ },
+ "id":1230827511
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Атманка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.5,
+   "min":0.4,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3731,54.6283]
+ },
+ "id":1230827536
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":12,
+  "name":"Инсаровка д",
+  "cs":{
+   "cnt":12,
+   "avg":0.4,
+   "min":0.2,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4020,54.5835]
+ },
+ "id":1230827548
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дубровское с",
+  "cs":{
+   "cnt":6,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4196,54.6510]
+ },
+ "id":1230834078
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ульянка с",
+  "cs":{
+   "cnt":6,
+   "avg":0.7,
+   "min":0.4,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.3593,54.6545]
+ },
+ "id":1230834083
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Голубцовка с",
+  "cs":{
+   "cnt":8,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4622,54.5292]
+ },
+ "id":1230843188
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Резоватово с",
+  "cs":{
+   "cnt":6,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4752,54.6271]
+ },
+ "id":1230843199
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":7,
+  "name":"Козловка с",
+  "cs":{
+   "cnt":7,
+   "avg":0.5,
+   "min":0.2,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4525,54.4805]
+ },
+ "id":1230843201
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Болтино с",
+  "cs":{
+   "cnt":6,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5178,54.4886]
+ },
+ "id":1230850876
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":8,
+  "name":"Курилово с",
+  "cs":{
+   "cnt":8,
+   "avg":0.6,
+   "min":0.3,
+   "max":1.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4725,54.4611]
+ },
+ "id":1230850884
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":7,
+  "name":"Красногорное с",
+  "cs":{
+   "cnt":7,
+   "avg":0.6,
+   "min":-0.05,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5788,54.3830]
+ },
+ "id":1230919289
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кульмино с",
+  "cs":{
+   "cnt":6,
+   "avg":0.5,
+   "min":0.2,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5970,54.4329]
+ },
+ "id":1230919386
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Маколово с",
+  "cs":{
+   "cnt":2,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5579,54.4175]
+ },
+ "id":1230919394
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Отрадное с",
+  "cs":{
+   "cnt":7,
+   "avg":0.7,
+   "min":0.5,
+   "max":1.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6666,54.4336]
+ },
+ "id":1230930311
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кочкуши с",
+  "cs":{
+   "cnt":3,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6439,54.4669]
+ },
+ "id":1230930317
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Наченалы с",
+  "cs":{
+   "cnt":6,
+   "avg":0.4,
+   "min":0.2,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6801,54.4902]
+ },
+ "id":1230930377
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Сырятино с",
+  "cs":{
+   "cnt":6,
+   "avg":0.6,
+   "min":0.4,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6641,54.3817]
+ },
+ "id":1230941901
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":5,
+  "name":"Альза с",
+  "cs":{
+   "cnt":5,
+   "avg":0.5,
+   "min":0.4,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7158,54.4203]
+ },
+ "id":1230941904
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":3,
+  "name":"Репьевка с",
+  "cs":{
+   "cnt":3,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7351,54.4000]
+ },
+ "id":1230941923
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Огарёвка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.9,
+   "min":0.8,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6223,54.3863]
+ },
+ "id":1230941927
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Репакуши п",
+  "cs":{
+   "cnt":2,
+   "avg":0.6,
+   "min":0.5,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7711,54.3124]
+ },
+ "id":1230962516
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пичеуры с",
+  "cs":{
+   "cnt":8,
+   "avg":0.5,
+   "min":0.3,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8299,54.3180]
+ },
+ "id":1230962528
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Петровка с",
+  "cs":{
+   "cnt":5,
+   "avg":0.5,
+   "min":0.4,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8655,54.2788]
+ },
+ "id":1233791261
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Русские Дубровки с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9146,54.5184]
+ },
+ "id":1233817857
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Апраксино с",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7736,54.5053]
+ },
+ "id":1233818023
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Троицк с",
+  "cs":{
+   "cnt":11,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8226,54.0889]
+ },
+ "id":1235448225
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Паньжа с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8097,53.9577]
+ },
+ "id":1235448573
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":4,
+  "name":"Курнино с",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8854,54.0483]
+ },
+ "id":1235448590
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Калинина п",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8453,54.0558]
+ },
+ "id":1235448681
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Парапино с",
+  "cs":{
+   "cnt":2,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8977,53.9900]
+ },
+ "id":1235448730
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Вольная Лашма с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.7964,54.0205]
+ },
+ "id":1235448741
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Курмачкасы с",
+  "cs":{
+   "cnt":6,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5334,54.5533]
+ },
+ "id":1236197223
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":5,
+  "name":"Папулево с",
+  "cs":{
+   "cnt":5,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.5861,54.7417]
+ },
+ "id":1236199912
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Лобаски с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7292,54.6449]
+ },
+ "id":1236225536
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Тарханово с",
+  "cs":{
+   "cnt":6,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6629,54.7614]
+ },
+ "id":1236225539
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Челпаново с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8043,54.6022]
+ },
+ "id":1236225541
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Чукалы-на-Вежне с",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7984,54.7228]
+ },
+ "id":1236225544
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Тазнеево с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7525,54.6240]
+ },
+ "id":1236225545
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ведянцы с",
+  "cs":{
+   "cnt":7,
+   "avg":0.5,
+   "min":0.3,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7432,54.7600]
+ },
+ "id":1236225546
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Покровское с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8349,54.7696]
+ },
+ "id":1236225550
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Луньгинский Майдан с",
+  "cs":{
+   "cnt":2,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8095,54.8138]
+ },
+ "id":1237327971
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":9,
+  "name":"Луньга с",
+  "cs":{
+   "cnt":9,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9515,54.7877]
+ },
+ "id":1237327972
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Спасские Мурзы д",
+  "cs":{
+   "cnt":7,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9030,54.7991]
+ },
+ "id":1237327973
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Наборные Сыреси с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8663,54.6772]
+ },
+ "id":1240015597
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Каменка с",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9870,54.7221]
+ },
+ "id":1240015604
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Козловка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9163,54.7054]
+ },
+ "id":1240015618
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Андреевка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9919,54.6552]
+ },
+ "id":1240015683
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Сосновое с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.0586,54.8294]
+ },
+ "id":1241053691
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Большие Поляны с",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1118,54.8464]
+ },
+ "id":1241053693
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":8,
+  "name":"Манадыши 2-е с",
+  "cs":{
+   "cnt":8,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9852,54.7703]
+ },
+ "id":1241053695
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Федоровка п",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2200,54.7814]
+ },
+ "id":1241053699
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Низовка с",
+  "cs":{
+   "cnt":1,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.05
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.3070,54.7570]
+ },
+ "id":1241053700
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Турдаково с",
+  "cs":{
+   "cnt":4,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1981,54.8073]
+ },
+ "id":1241053701
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Редкодубье с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1703,54.8132]
+ },
+ "id":1241053703
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Лесозавод п",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.0239,54.8213]
+ },
+ "id":1241053704
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Каласево с",
+  "cs":{
+   "cnt":9,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.0376,54.7818]
+ },
+ "id":1241053705
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Суподеевка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.0930,54.8035]
+ },
+ "id":1241053707
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Алашеевка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2249,54.6335]
+ },
+ "id":1241062567
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Молния п",
+  "cs":{
+   "cnt":3,
+   "avg":0.7,
+   "min":0.5,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9400,54.3155]
+ },
+ "id":1244535589
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Соколов Гарт с",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9338,54.3391]
+ },
+ "id":1244535646
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кочкурово с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1307,54.4245]
+ },
+ "id":1244555229
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ардатово с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.3218,54.4023]
+ },
+ "id":1244555248
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Сабанчеево с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2834,54.5839]
+ },
+ "id":1244575589
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кочелаево с",
+  "cs":{
+   "cnt":3,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.0469,54.0184]
+ },
+ "id":1245452150
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Токмово с",
+  "cs":{
+   "cnt":8,
+   "avg":0.2,
+   "min":-0.05,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.0937,54.0443]
+ },
+ "id":1245455469
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Октябрьский п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2179,54.9057]
+ },
+ "id":1245870994
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Олевка с",
+  "cs":{
+   "cnt":1,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.05
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1016,54.9969]
+ },
+ "id":1245871016
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Куракино с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1341,54.9579]
+ },
+ "id":1245871057
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Солдатское с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9425,54.9757]
+ },
+ "id":1248419566
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Силино с",
+  "cs":{
+   "cnt":4,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.05
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.0262,54.9830]
+ },
+ "id":1248419605
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Манадыши 1-е с",
+  "cs":{
+   "cnt":2,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9966,54.9472]
+ },
+ "id":1248419607
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Неусыпаевка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9793,54.9883]
+ },
+ "id":1248419611
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новоклейка д",
+  "cs":{
+   "cnt":1,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.05
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.9322,54.9528]
+ },
+ "id":1248419900
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Малое Игнатово д",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8708,54.9962]
+ },
+ "id":1248424091
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Хухорево с",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8403,54.9669]
+ },
+ "id":1248424092
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Михайловка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.8823,54.8916]
+ },
+ "id":1248434405
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новое Баево с",
+  "cs":{
+   "cnt":6,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7313,54.8914]
+ },
+ "id":1248434407
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новое Селище с",
+  "cs":{
+   "cnt":5,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4917,54.9332]
+ },
+ "id":1248458245
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новая Александровка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4552,54.8930]
+ },
+ "id":1248458247
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Протасово с",
+  "cs":{
+   "cnt":6,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4986,54.9603]
+ },
+ "id":1248458248
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Нижняя Вязера с",
+  "cs":{
+   "cnt":8,
+   "avg":0.4,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.4622,53.8314]
+ },
+ "id":1248490457
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кашаево с",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5763,53.8268]
+ },
+ "id":1248490460
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новые Верхиссы с",
+  "cs":{
+   "cnt":1,
+   "avg":0.6,
+   "min":0.6,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5380,53.8661]
+ },
+ "id":1248490461
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Казеевка с",
+  "cs":{
+   "cnt":9,
+   "avg":0.5,
+   "min":0.2,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.3998,53.8160]
+ },
+ "id":1248490470
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Козловка с",
+  "cs":{
+   "cnt":6,
+   "avg":0.4,
+   "min":0.2,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.2268,53.8674]
+ },
+ "id":1248490473
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Русская Паевка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.3092,53.9028]
+ },
+ "id":1248490517
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Сиалеевская Пятина с",
+  "cs":{
+   "cnt":8,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5177,53.8138]
+ },
+ "id":1248490520
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Верхняя Лухма с",
+  "cs":{
+   "cnt":3,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.1937,53.7798]
+ },
+ "id":1248490533
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Яндовище с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5577,53.8981]
+ },
+ "id":1248490546
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":12,
+  "name":"Кочетовка с",
+  "cs":{
+   "cnt":12,
+   "avg":0.4,
+   "min":0.2,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.2605,53.7958]
+ },
+ "id":1248490561
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Мордовская Паевка с",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.2602,53.7426]
+ },
+ "id":1248490565
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Семёновка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5935,53.7450]
+ },
+ "id":1248490570
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Арбузовка с",
+  "cs":{
+   "cnt":6,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.3269,53.8330]
+ },
+ "id":1248490587
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пушкино с",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.3738,54.0928]
+ },
+ "id":1252612540
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Нагаево с",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.4283,54.1381]
+ },
+ "id":1252612562
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дмитриев Усад с",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.2802,54.2296]
+ },
+ "id":1256622528
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Крутец п",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.6531,54.0529]
+ },
+ "id":1264856215
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ямщина с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.2518,53.9560]
+ },
+ "id":1272200259
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Васильевка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8650,53.9288]
+ },
+ "id":1275526651
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старое Дракино с",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9455,53.8923]
+ },
+ "id":1275528184
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Мордовское Вечкенино с",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8631,53.9655]
+ },
+ "id":1275808346
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Дурасово с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2207,54.0106]
+ },
+ "id":1275845370
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новая Нечаевка п",
+  "cs":{
+   "cnt":2,
+   "avg":0.8,
+   "min":0.6,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1836,54.0465]
+ },
+ "id":1275845373
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Заречный п",
+  "cs":{
+   "cnt":2,
+   "avg":0.6,
+   "min":0.6,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2030,54.0367]
+ },
+ "id":1275845374
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старая Нечаевка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.8,
+   "min":0.8,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1998,54.0486]
+ },
+ "id":1275845375
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Шингарино с",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.8872,54.0987]
+ },
+ "id":1276008230
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Добровольный п",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.1003,54.1368]
+ },
+ "id":1277517333
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":10,
+  "name":"Куликовка с",
+  "cs":{
+   "cnt":10,
+   "avg":0.6,
+   "min":0.1,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.2401,54.1285]
+ },
+ "id":1277518503
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Трускляй с",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.8468,54.0291]
+ },
+ "id":1296069571
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":3,
+  "name":"Красное Сельцо д",
+  "cs":{
+   "cnt":3,
+   "avg":0.5,
+   "min":0.3,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.8769,54.0313]
+ },
+ "id":1296069747
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Озерки д",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.7894,53.9578]
+ },
+ "id":1296097925
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Старая Муравьёвка д",
+  "cs":{
+   "cnt":2,
+   "avg":0.6,
+   "min":0.6,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.6430,54.0166]
+ },
+ "id":1296097991
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":2,
+  "name":"Верхний Урледим с",
+  "cs":{
+   "cnt":1,
+   "avg":0.4,
+   "min":0.4,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.6836,53.9322]
+ },
+ "id":1296098116
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новая Муравьёвка д",
+  "cs":{
+   "cnt":6,
+   "avg":0.5,
+   "min":0.3,
+   "max":1.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.7030,53.9998]
+ },
+ "id":1296098159
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":4,
+  "name":"Яковщина с",
+  "cs":{
+   "cnt":4,
+   "avg":0.6,
+   "min":0.3,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.6664,53.9333]
+ },
+ "id":1296098174
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Палаевка с",
+  "cs":{
+   "cnt":4,
+   "avg":0.4,
+   "min":0.1,
+   "max":0.8
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.7349,53.9411]
+ },
+ "id":1296098178
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Инсар-Акшино с",
+  "cs":{
+   "cnt":4,
+   "avg":0.4,
+   "min":0.2,
+   "max":1.0
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.7826,54.0109]
+ },
+ "id":1296098183
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Нижний Урледим с",
+  "cs":{
+   "cnt":4,
+   "avg":0.7,
+   "min":0.4,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.6810,53.9552]
+ },
+ "id":1296098242
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Инсар г",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.3714,53.8677]
+ },
+ "id":1520151475
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Вярвель д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.1381,54.0080]
+ },
+ "id":1637594372
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Андреевка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.3,
+   "min":0.3,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.0317,54.0589]
+ },
+ "id":1775376218
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Буды д",
+  "cs":{
+   "cnt":2,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9399,53.9690]
+ },
+ "id":1775376355
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Берсеневка с",
+  "cs":{
+   "cnt":2,
+   "avg":0.5,
+   "min":0.2,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0887,54.2069]
+ },
+ "id":1784844535
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красный Яр п",
+  "cs":{
+   "cnt":2,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9692,53.9832]
+ },
+ "id":1810202511
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Крутенькое с",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9912,54.1289]
+ },
+ "id":1814992163
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Первомайский п",
+  "cs":{
+   "cnt":3,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.0494,54.1271]
+ },
+ "id":1814992170
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ардатов п.ст",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2672,54.7599]
+ },
+ "id":1993000075
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Смольково с",
+  "cs":{
+   "cnt":3,
+   "avg":-0.05,
+   "min":-0.05,
+   "max":0.05
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2109,54.8226]
+ },
+ "id":1993000077
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":2,
+  "name":"Русское Яндовище д",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.2995,53.7995]
+ },
+ "id":2199179140
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Александровка д",
+  "cs":{
+   "cnt":4,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5484,53.9561]
+ },
+ "id":2199192955
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Новлей с",
+  "cs":{
+   "cnt":5,
+   "avg":0.5,
+   "min":0.3,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.5509,53.9254]
+ },
+ "id":2199192957
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ленина п",
+  "cs":{
+   "cnt":2,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.7298,53.8315]
+ },
+ "id":2199375955
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Свиносовхоз п",
+  "cs":{
+   "cnt":1,
+   "avg":0.2,
+   "min":0.2,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.2254,54.4031]
+ },
+ "id":2605884172
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Ташкино п",
+  "cs":{
+   "cnt":2,
+   "avg":0.6,
+   "min":0.6,
+   "max":0.6
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4864,54.7311]
+ },
+ "id":2655273541
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Атяшево с",
+  "cs":{
+   "cnt":7,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1211,54.5898]
+ },
+ "id":2682119328
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Орловка д",
+  "cs":{
+   "cnt":3,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[46.1897,54.6613]
+ },
+ "id":2683613396
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Совхоз \"Коммунар\" п",
+  "cs":{
+   "cnt":5,
+   "avg":0.1,
+   "min":-0.05,
+   "max":0.2
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0624,54.3384]
+ },
+ "id":2794649243
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Красный Воин п",
+  "cs":{
+   "cnt":1,
+   "avg":0.5,
+   "min":0.5,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.7127,54.3032]
+ },
+ "id":2798540915
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Репьёвка с",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9775,54.3180]
+ },
+ "id":2813017885
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":2,
+  "name":"Ежовка п",
+  "cs":{
+   "cnt":2,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6804,54.8948]
+ },
+ "id":2989169442
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":4,
+  "name":"Надеждинский п",
+  "cs":{
+   "cnt":4,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.6803,54.8893]
+ },
+ "id":2989191112
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Кадошкино рп",
+  "marker-symbol":"town",
+  "cs":{
+   "cnt":5,
+   "avg":0.2,
+   "min":0.1,
+   "max":0.3
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.4213,54.0273]
+ },
+ "id":3057548478
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Архангельское Голицыно с",
+  "cs":{
+   "cnt":10,
+   "avg":0.5,
+   "min":0.1,
+   "max":0.9
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.0531,54.0406]
+ },
+ "id":3157752301
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Макаровка д",
+  "cs":{
+   "cnt":1,
+   "avg":0.5,
+   "min":0.5,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.7607,54.0190]
+ },
+ "id":3227937300
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Александровка д",
+  "cs":{
+   "cnt":4,
+   "avg":0.5,
+   "min":0.4,
+   "max":0.7
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.9823,54.0310]
+ },
+ "id":3670098144
+},
+{
+ "type":"Feature",
+ "properties":{
+  "radius-size":4,
+  "name":"Лыковщина д",
+  "cs":{
+   "cnt":4,
+   "avg":0.3,
+   "min":0.1,
+   "max":0.4
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[45.4826,54.3179]
+ },
+ "id":4167449788
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Пионерский п",
+  "cs":{
+   "cnt":1,
+   "avg":0.1,
+   "min":0.1,
+   "max":0.1
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[42.8632,54.2751]
+ },
+ "id":4701809463
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Песочная Лосевка с",
+  "cs":{
+   "cnt":3,
+   "avg":0.4,
+   "min":0.3,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[43.9721,54.4439]
+ },
+ "id":4704278235
+},
+{
+ "type":"Feature",
+ "properties":{
+  "name":"Засечная Слобода с",
+  "cs":{
+   "cnt":7,
+   "avg":0.3,
+   "min":0.2,
+   "max":0.5
+  },
+  "pw":"Ci"
+ },
+ "geometry":{
+  "type":"Point",
+  "coordinates":[44.2751,53.9190]
+ }
+}
+]}
