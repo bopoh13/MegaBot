@@ -6466,7 +6466,7 @@
  "type":"Feature",
  "properties":{
   "radius-size":2,
-  "name":"Надеждинский п -10",
+  "name":"Надеждинский п -20",
   "cs":{
    "cnt":4,
    "avg":0.2,
@@ -6477,7 +6477,7 @@
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.6803,54.8883]
+  "coordinates":[45.6803,54.8873]
  },
  "id":2989191112
 },
