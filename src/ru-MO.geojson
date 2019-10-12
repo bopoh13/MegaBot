@@ -3,7 +3,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":22,
+  "radius-size":20,
   "name":"Саранск г",
   "marker-symbol":"city",
   "cs":{
@@ -6471,13 +6471,13 @@
    "cnt":4,
    "avg":0.2,
    "min":0.1,
-   "max":15.3
+   "max":20.2
   },
   "pw":"Ci"
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.6803,54.8803]
+  "coordinates":[45.6803,54.8892]
  },
  "id":2989191112
 },
