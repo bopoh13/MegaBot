@@ -120,7 +120,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":6,
+  "radius-size":5,
   "name":"Николаевка рп",
   "marker-symbol":"town",
   "cs":{
@@ -2000,7 +2000,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Луховка рп",
   "marker-symbol":"town",
   "cs":{
@@ -2020,7 +2020,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":4,
+  "radius-size":3,
   "name":"Макаровка с",
   "cs":{
    "cnt":17,
@@ -3237,7 +3237,7 @@
 {
  "type":"Feature",
  "properties":{
-  "radius-size":5,
+  "radius-size":4,
   "name":"Рождествено с",
   "cs":{
    "cnt":11,
@@ -6477,7 +6477,7 @@
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[45.6803,54.8892]
+  "coordinates":[45.6803,54.8883]
  },
  "id":2989191112
 },
