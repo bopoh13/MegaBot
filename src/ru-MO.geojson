@@ -94,7 +94,7 @@
  "type":"Feature",
  "properties":{
   "radius-size":2,
-  "name":"Котеново д",
+  "name":"Котеново д -20",
   "cs":{
    "cnt":3,
    "avg":0.1,
@@ -105,7 +105,7 @@
  },
  "geometry":{
   "type":"Point",
-  "coordinates":[46.8695,56.3831]
+  "coordinates":[46.8695,56.3811]
  },
  "id":912971899
 },
