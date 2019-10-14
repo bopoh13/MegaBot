@@ -346,7 +346,7 @@
 {
  "type":"Feature",
  "properties":{
-  "point-size":3,
+  "size":3,
   "name":"Сорокаево д",
   "cs":{
    "cnt":5,
